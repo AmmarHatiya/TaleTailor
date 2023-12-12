@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595532494607",
+    "project_id": "tale-tailor-404914",
+    "storage_bucket": "tale-tailor-404914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595532494607:android:f88cb1991b61628f85707a",
+        "android_client_info": {
+          "package_name": "com.example.creative_writing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjMPbLPtS9ujtUPZRRlaqL7Yw4yWuSxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

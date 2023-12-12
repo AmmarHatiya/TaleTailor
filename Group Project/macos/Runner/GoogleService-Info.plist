@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpdj3pDVm6zAKgjsDCJxAf0hOm9jYAT28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595532494607</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.creativeWritingApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>tale-tailor-404914</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tale-tailor-404914.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595532494607:ios:7bfcf63d60a018c085707a</string>
+</dict>
+</plist>
