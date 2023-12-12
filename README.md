@@ -1,6 +1,6 @@
 
 # CSCI4100 Group Project
-Repository duplicated for showcasing
+Repository duplicated for showcasing.
 
 Group members (3-5) (no Student IDs, only names and github usernames):
 
