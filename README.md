@@ -1,8 +1,8 @@
 
-# CSCI4100 Group Project
+# Mobile Devices Group Project: Tale Tailor
 Repository duplicated for showcasing.
 
-Group members (3-5) (no Student IDs, only names and github usernames):
+Contributors:
 
 1. Ammar Hatiya (AmmarHatiya)
 
