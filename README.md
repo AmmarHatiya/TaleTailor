@@ -1,5 +1,5 @@
 
-# Tale Tailor
+# Tale Tailor: Version Control for Writing Teams
 Repository duplicated for showcasing.
 
 Contributors:
